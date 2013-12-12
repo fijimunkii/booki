@@ -52,6 +52,8 @@ As a registered user with a business
 
   I want to set a description for my business, so users know what to expect.
 
+  I want to set my business to private so it does not sure up normally.
+
 As a registered user with a business and a listing
 
   I want to put a price on the listing, if there is a set price.
@@ -60,15 +62,24 @@ As a registered user with a business and a listing
 
   I want to put a time on the listing, so it's available at a certain time.
 
+  I want to set the duration of the listing.
+
   I want to set the listing to be recurring an interval, so I can set it and forget it.
 
   I want to edit the time of the listing
 
   I want to edit the date of the listing
 
+  I want to edit the duration of the listing
+
   I want to edit the description of the listing
 
   I want to edit the price of the listing
+
+
+As a registered user with a private business
+
+  I want to invite a user to see my listings
 
 
 
